@@ -1,5 +1,4 @@
 const Discord = require('discord.js');
-const app = express();
 
 // Configure logger settings
 logger.remove(logger.transports.Console);
