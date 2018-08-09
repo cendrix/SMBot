@@ -1,5 +1,4 @@
 const Discord = require('discord.js');
-const logger = require('winston');
 const express = require('express');
 const app = express();
 
