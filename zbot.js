@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const logger = require('winston');
-const token = require('./auth.json').token;
 const express = require('express');
 const app = express();
 
